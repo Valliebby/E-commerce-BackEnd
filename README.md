@@ -64,32 +64,32 @@ The following are the available API endpoints:
 
 GET /api/products: Fetch all products with their associated category and tag information.
 
-GET /api/products/:id: Fetch a specific product by its ID along with its associated category and tag information.
+GET /api/products/:id Fetch a specific product by its ID along with its associated category and tag information.
 
 POST /api/products: Create a new product and associate it with one or more categories and tags.
 
-PUT /api/products/:id: Update an existing product by its ID.
+PUT /api/products/:id Update an existing product by its ID.
 
-DELETE /api/products/:id: Delete a product by its ID.
+DELETE /api/products/:id Delete a product by its ID.
 
 GET /api/categories: Fetch all categories along with their associated products.
 
-GET /api/categories/:id: Fetch a specific category by its ID along with its associated products.
+GET /api/categories/:id Fetch a specific category by its ID along with its associated products.
 
 POST /api/categories: Create a new category.
 
-PUT /api/categories/:id: Update an existing category by its ID.
+PUT /api/categories/:id Update an existing category by its ID.
 
-DELETE /api/categories/:id: Delete a category by its ID.
+DELETE /api/categories/:id Delete a category by its ID.
 
 GET /api/tags: Fetch all tags along with their associated products.
 
-GET /api/tags/:id: Fetch a specific tag by its ID along with its associated products.
+GET /api/tags/:id Fetch a specific tag by its ID along with its associated products.
 
 POST /api/tags: Create a new tag.
 
-PUT /api/tags/:id: Update an existing tag by its ID.
+PUT /api/tags/:id Update an existing tag by its ID.
 
-DELETE /api/tags/:id: Delete a tag by its ID.
+DELETE /api/tags/:id Delete a tag by its ID.
 
 Thank you and enjoy!
