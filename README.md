@@ -90,3 +90,8 @@ PUT /api/tags/:id Update an existing tag by its ID.
 DELETE /api/tags/:id Delete a tag by its ID.
 
 Thank you and enjoy!
+
+
+https://github.com/Valliebby/E-commerce-BackEnd/assets/119483866/778abbdd-9151-436b-8b54-c4bfc56bfb45
+
+
