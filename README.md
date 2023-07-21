@@ -92,4 +92,4 @@ PUT /api/tags/:id: Update an existing tag by its ID.
 
 DELETE /api/tags/:id: Delete a tag by its ID.
 
-
+Thank you and enjoy!
