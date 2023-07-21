@@ -26,7 +26,7 @@ Clone the repository and navigate to the project directory.
 
 Install the dependencies using npm:
 
-Copy code: git clone https://github.com/Valliebby/E-commerce-BackEnd.git
+Copy code: git clone https://github.com/Valliebby/E-commerce-BackEnd
 npm install
 Create a .env file in the root directory and set the following environment variables:
 
