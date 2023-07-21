@@ -26,8 +26,7 @@ Clone the repository and navigate to the project directory.
 
 Install the dependencies using npm:
 
-bash
-Copy code
+Copy code: git clone https://github.com/Valliebby/E-commerce-BackEnd.git
 npm install
 Create a .env file in the root directory and set the following environment variables:
 
@@ -42,8 +41,6 @@ Import the provided database schema and seed data into your MySQL database. You 
 
 Start the server:
 
-bash
-Copy code
 npm start
 The API will be available at http://localhost:3001 by default. You can change the port by modifying the PORT environment variable in the .env file.
 
