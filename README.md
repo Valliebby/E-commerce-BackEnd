@@ -92,6 +92,8 @@ DELETE /api/tags/:id Delete a tag by its ID.
 Thank you and enjoy!
 
 
-https://github.com/Valliebby/E-commerce-BackEnd/assets/119483866/778abbdd-9151-436b-8b54-c4bfc56bfb45
+
+
+https://github.com/Valliebby/E-commerce-BackEnd/assets/119483866/ac1db2a4-e6cb-4e70-861b-7cf4521dec8c
 
 
