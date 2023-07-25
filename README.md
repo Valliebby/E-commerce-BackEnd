@@ -92,8 +92,16 @@ DELETE /api/tags/:id Delete a tag by its ID.
 Thank you and enjoy!
 
 
+Get all routes:
 
 
-https://github.com/Valliebby/E-commerce-BackEnd/assets/119483866/ac1db2a4-e6cb-4e70-861b-7cf4521dec8c
+
+https://github.com/Valliebby/E-commerce-BackEnd/assets/119483866/f11a6226-b660-4656-83b0-20f0270852e8
 
 
+Get a single route:
+[Untitled_ Jul 25, 2023 11_57 AM.webm](https://github.com/Valliebby/E-commerce-BackEnd/assets/119483866/8131559d-80b0-4e11-90c0-6e493e5148e2)
+
+https://drive.google.com/file/d/1_fhYxvxhwvh6oEjKYr4LsZpQBeRmv4Vi/view
+
+Delet Post 
