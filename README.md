@@ -104,4 +104,5 @@ Get a single route:
 
 https://drive.google.com/file/d/1_fhYxvxhwvh6oEjKYr4LsZpQBeRmv4Vi/view
 
-Delet Post 
+Delet Post [Post.webm](https://github.com/Valliebby/E-commerce-BackEnd/assets/119483866/d14464cd-b2cb-476a-8313-906d20e95827)
+
